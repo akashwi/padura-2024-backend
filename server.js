@@ -34,16 +34,16 @@ app.get("/api/lyrics/:number", (req, res) => {
     const lyrics = readLyrics();
     if (number >= 0 && number < lyrics.length) {
         currentLyric = lyrics[number];
-        console.log(`GET /api/lyrics/${number}: ${currentLyric}`);
+        // console.log(`GET /api/lyrics/${number}: ${currentLyric}`);
         res.json({ lyric: currentLyric });
     } else {
-        res.status(400).json({ error: 'Invalid lyric number.' });
+        res.status(400).json({ error: "Invalid lyric number." });
     }
 });
 
 // API endpoint for downloading a text file
 app.get("/loaderio-6a16c015fdb3f4b22bda7b46d93bde90/", (req, res) => {
-    const filePath = __dirname + '/loader.txt'; // replace with your file path
+    const filePath = __dirname + "/loader.txt"; // replace with your file path
     res.download(filePath, (err) => {
         if (err) {
             res.status(500).send({
