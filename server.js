@@ -41,6 +41,18 @@ app.get("/api/lyrics/:number", (req, res) => {
     }
 });
 
+// API endpoint for downloading a text file
+app.get("/loaderio-6a16c015fdb3f4b22bda7b46d93bde90/", (req, res) => {
+    const filePath = __dirname + '/loader.txt'; // replace with your file path
+    res.download(filePath, (err) => {
+        if (err) {
+            res.status(500).send({
+                message: "Could not download the file. " + err,
+            });
+        }
+    });
+});
+
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
 });
