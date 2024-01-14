@@ -1,42 +1,25 @@
 {
     "lyrics": [
         [
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-            "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-            "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-            "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-            "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-            "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-            "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-            "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "Welcome to the Computer Department Padura Event! We are thrilled to have you join us for an evening filled with technology, innovation, and the rhythmic beats of music.",
+            "As you step into this dynamic gathering, be prepared to immerse yourself in the world of computers and technology. The event promises an exciting fusion of cutting-edge discussions, hands-on demonstrations, and, of course, a musical extravaganza that will leave you energized and inspired.",
+            "Whether you're a seasoned tech enthusiast or just curious about the latest advancements, the Computer Department Padura Event is the perfect place to connect, learn, and celebrate the incredible strides made in the world of computing.",
+            "So, get ready to enjoy the music, engage in stimulating conversations, and embrace the vibrant atmosphere of this one-of-a-kind event. Welcome, and let the celebration begin!"
         ],
-        ["Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "testing"]
+        ["Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "testing"],
+        [
+            "සීතල හාදුවකින් දෙකොපුල් තෙමපූ..",
+            "ලස්සන මතක අපේ හසරැල් පිරුණූ..",
+            "දුක්බර කදුළු වලින් පොගවා නොපැතූ..",
+            "ඇයි ඔබ ඈත ගියේ මට වී නපුරූ..",
+            "නාකපන අනෝරා වැස්සක අකුණු නිසා..",
+            "ඔබ තුරුළු කරන් මා බස් නැවතුමට වෙලා",
+            "පොද නතර වෙනා කල් බලමින් අහස දිහා",
+            "අපි හිටියේ පුරුද්දක් වාගෙයි සසර පුරා..",
+            "අමතන අංකේ මගේ අවහිර කරලන්නට..",
+            "ඔබ හට ඒ තරමට වරදක් කෙරුවද මම..",
+            "පොඩි හරි ආදරයක් ඇති නම් මේ මා ගැන.",
+            "තව එක පාරක් මා හමුවන්නට එනවද"
+        ]
     ]
 }
